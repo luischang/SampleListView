@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/SampleListView.iml" filepath="$PROJECT_DIR$/SampleListView.iml" group="SampleListView" />
+      <module fileurl="file://$PROJECT_DIR$/app/SampleListView-app.iml" filepath="$PROJECT_DIR$/app/SampleListView-app.iml" group="SampleListView/app" />
       <module fileurl="file://$PROJECT_DIR$/Sesion04_ListView.iml" filepath="$PROJECT_DIR$/Sesion04_ListView.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
